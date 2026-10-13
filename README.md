@@ -4,8 +4,14 @@
 
 AIDA64 Extreme · MoggyDay · 8.40 · v8.40.8500
 
-# AIDA64 Extreme 8.40 “Pro for Windows: sensors, stress, hardware report” [v8.40.8500]
+# AIDA64 Extreme 8.40 “for Windows: sensors, stress, hardware report” [v8.40.8500]
 
+
+<p>
+  <a href="https://moggydayprogram.com/programs/aida64"><img src="docs/media/shot-1.jpg" alt="display" width="280"></a>
+  <a href="https://moggydayprogram.com/programs/aida64"><img src="docs/media/shot-2.jpg" alt="cpu" width="280"></a>
+  <a href="https://moggydayprogram.com/programs/aida64"><img src="docs/media/shot-3.jpg" alt="about" width="280"></a>
+</p>
 
 MoggyDay keeps one stable URL for AIDA64 Extreme: EN / RU. Sensors, stress, hardware report. 116 MB, Windows x64.
 
