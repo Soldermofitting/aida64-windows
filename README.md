@@ -2,6 +2,10 @@
 
 **Language / Язык:** the [GitHub Pages site](https://soldermofitting.github.io/aida64-windows/) picks English or Russian from the browser. Switch: [English](https://soldermofitting.github.io/aida64-windows/?lang=en) · [Русский](https://soldermofitting.github.io/aida64-windows/?lang=ru)
 
+<p>
+  <a href="https://moggydayprogram.com/programs/aida64"><img src="docs/media/preview.jpg" alt="AIDA64 preview" width="640"></a>
+</p>
+
 AIDA64 Extreme · MoggyDay · 8.40 · v8.40.8500
 
 # AIDA64 Extreme 8.40 “for Windows: sensors, stress, hardware report” [v8.40.8500]
